@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.88"
+        android:weightSum="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="0.4"
+            android:weightSum="1"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/relativeLayout"
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:orientation="vertical"
+                android:gravity="bottom"
+                android:layout_gravity="center">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:layout_marginBottom="17dp"
+                        android:text=" 이메일"
+                        android:textColor="@color/black" />
+
+                    <EditText
+                        android:layout_width="360dp"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="3dp"
+                        android:backgroundTint="@color/gray" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:orientation="horizontal">
+
+                        <Spinner
+                            android:layout_width="130dp"
+                            android:layout_height="30dp"
+                            android:dropDownWidth="100dp"
+                            android:spinnerMode="dropdown"
+                            android:backgroundTint="@color/point_color"
+                            android:popupBackground="@color/gray"/>  //스피너 팝업 컬러
+
+                        <Button
+                            android:layout_width="80dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="right"
+                            android:text="인증하기"
+                            android:background="@drawable/stroke_btn"/>
+
+                    </LinearLayout>
+
+                </FrameLayout>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="60dp"
+                android:orientation="vertical"
+                android:gravity="bottom"
+                android:layout_gravity="center">
+
+                <FrameLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:layout_marginBottom="17dp"
+                        android:text=" 인증번호"
+                        android:textColor="@color/black" />
+
+                    <EditText
+                        android:layout_width="360dp"
+                        android:layout_height="40dp"
+                        android:layout_marginTop="3dp"
+                        android:backgroundTint="@color/gray" />
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="right"
+                        android:orientation="horizontal">
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="30dp"
+                            android:textAlignment="gravity"
+                            android:layout_gravity="bottom"
+                            android:text="5 : 00"
+                            android:textSize="20sp"
+                            android:textColor="@color/timer"
+                            android:layout_marginRight="10dp"/>
+
+                        <Button
+                            android:layout_width="80dp"
+                            android:layout_height="30dp"
+                            android:layout_gravity="right"
+                            android:text="확인"
+                            android:background="@drawable/stroke_btn"/>
+                    </LinearLayout>
+
+
+                </FrameLayout>
+
+
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+</LinearLayout>
