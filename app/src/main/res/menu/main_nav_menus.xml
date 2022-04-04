@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/ic_question_mark"
+        android:title="도움말"/>
+    <group>
+        <item
+            android:id="@+id/friend_list"
+            android:icon="@drawable/ic_friend"
+            android:title="친구목록"/>
+    </group>
+</menu>
