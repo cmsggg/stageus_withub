@@ -13,13 +13,18 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         android:theme="@style/Theme.NavigationDrawer">
-        <TextView
+        <com.yy.mobile.rollingtextview.RollingTextView
+            android:id="@+id/toolbar_ticker_view"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="center"
-            android:text="3"
-            android:textSize="40sp"
-            />
+            android:textSize="30sp"
+            android:shadowColor="@color/gray"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:shadowRadius="1"
+            android:textStyle="bold"
+            android:layout_gravity="center"/>
+
     </androidx.appcompat.widget.Toolbar>
 
 
