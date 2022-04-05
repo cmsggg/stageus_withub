@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.main_activity)
-
+        //dasdasdasdas
 
         //toolbar 설정
         var toolbar = findViewById<Toolbar>(R.id.toolbar)
