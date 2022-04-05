@@ -1,5 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/dd.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_back_arrow.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_baseline_restore_24.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_check_button.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_circle_checked.xml" value="0.264" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_circle_unchecked.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_commit.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_friend.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_friend_list.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_gray_right_arrow.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_home.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_logo.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_logout.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_minus_button.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_my_info.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_nav.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_orange_right_arrow.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_plus_button.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_question_mark.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_ranking_stand.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_setting_button.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_tropy_first.xml" value="0.21574074074074073" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_tropy_third.xml" value="0.2462962962962963" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_white_left_arrow.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/layout/main_activity.xml" value="0.2" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/layout/main_activity_app_bar.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/layout/main_activity_nav_header.xml" value="0.2" />
+        <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/menu/main_nav_menus.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

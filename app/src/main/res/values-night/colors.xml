@@ -9,12 +9,10 @@
     <color name="white">#FFFFFFFF</color>
 
     <color name="point_color">#FFB703</color>
-    <color name="nav_text_color">#FEFEFE</color>
-    <color name="background_color">#FEFEFE</color>
-    <color name="graph_color">#E6E6E6</color>
-    <color name="main_view_color">#EDEDED</color>
-    <color name="border_color">#EDEDED</color>
-    <color name="gray">#D9D9D9</color>
+    <color name="background_color">#141414</color>
+    <color name="graph_color">#323232</color>
+    <color name="main_view_color">#141414</color>
+    <color name="border_color">#EEEEEE</color>
 
     <color name="nav_color">@color/white</color>
 </resources>
