@@ -3,7 +3,6 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-<<<<<<< Updated upstream
         <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/dd.xml" value="0.21574074074074073" />
         <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_back_arrow.xml" value="0.24166666666666667" />
@@ -31,11 +30,9 @@
         <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_tropy_third.xml" value="0.2462962962962963" />
         <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/drawable/ic_white_left_arrow.xml" value="0.24166666666666667" />
         <entry key="..\:/Users/phil/Desktop/WITHUB/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
-=======
-        <entry key="..\:/Users/MSJ/Desktop/Withub/withub_project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26153846153846155" />
         <entry key="..\:/Users/MSJ/Desktop/Withub/withub_project/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26153846153846155" />
         <entry key="..\:/Users/MSJ/Desktop/Withub/withub_project/app/src/main/res/layout/splash_activity.xml" value="0.12132725430597771" />
->>>>>>> Stashed changes
+
       </map>
     </option>
   </component>
